@@ -7,8 +7,10 @@ After:
 ![after](https://user-images.githubusercontent.com/90596580/229689257-c1bdd0f9-fd12-4758-b709-8da7fa3dae95.PNG)
 
 # Puzzle-Quest-Portraits
-I batch edited all the protraits in the game with a bit of sharpness, contrast, and saturation. It helps a bit with the more blurry ones. I didn'tgo too crazy just wanted it to look a little better in handheld mode.
+I batch edited all the protraits in the game with a bit of sharpness, contrast, and saturation. It helps a bit with the more blurry ones. I didn't go too crazy just wanted it to look a little better in handheld mode.
+
 Before
 ![Portrait_PC_Knight1](https://user-images.githubusercontent.com/90596580/229712944-3ac62c5e-af6c-42af-a3a5-7a11e644b630.png)
+
 After
 ![Portrait_PC_Knight1](https://user-images.githubusercontent.com/90596580/229712990-6f97346d-a8c8-474d-a1f1-2a427e8897e3.png)
